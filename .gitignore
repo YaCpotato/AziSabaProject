@@ -1,4 +1,5 @@
 include/
 lib/
+bin/
 gitignore
 pyvenv.cfg
